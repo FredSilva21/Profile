@@ -1,6 +1,6 @@
 # Hi,my name is Alfredo Silva 👋
 
-### Sobre mim
+### About me
 
 💻 I'm studyng to be a Fullstack
 
