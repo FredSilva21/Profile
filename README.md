@@ -6,9 +6,9 @@
 
 🎓 I study  [[Web Information Systems and Technologies ](https://www.esmad.ipp.pt/cursos/licenciatura/663)]
 
-✒️ Eu gosto de no meu tempo livre [🏋️‍♂️,🎮,🍿];
+✒️ In my free time i like:🏋️‍♂️,🎮,🍿;
 
-### Eu já trabalhei com... 🔧
+### I have worked with.. 🔧
 
 **Tecnologias e Ferramentas**
 
