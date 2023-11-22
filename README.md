@@ -2,13 +2,11 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Fullstack
+💻 I'm studyng to be a Fullstack
 
-🎓 Eu estudo [[Web Information Systems and Technologies ](https://www.esmad.ipp.pt/cursos/licenciatura/663)]
+🎓 I study  [[Web Information Systems and Technologies ](https://www.esmad.ipp.pt/cursos/licenciatura/663)]
 
-✒️ Eu gosto de no meu tempo livre [];
-
-📚 Lendo: [Livro que está lendo atualmente]
+✒️ Eu gosto de no meu tempo livre [🏋️‍♂️,🎮,🍿];
 
 ### Eu já trabalhei com... 🔧
 
@@ -32,7 +30,7 @@
 ### I'm studying... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![MySql](https://img.shields.io/badge/MySql-white?style=flat-square&logo=MySql)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
